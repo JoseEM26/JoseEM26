@@ -1,129 +1,297 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hola+mundo%2C+soy+Jos%C3%A9+%C3%81ngel+%F0%9F%91%8B;Ingeniero+de+Software;Full+Stack+Developer;DevOps+Enthusiast" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoseEM26&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/JoseEM26">
-    <img src="https://img.shields.io/github/followers/JoseEM26?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub Followers"/>
-  </a>
-</p>
-
----
-
-## 🧑‍💻 Sobre mí
-
-```yaml
-nombre: José Ángel Espinoza Morales
-rol: Ingeniero de Software | Full Stack Developer
-ubicación: Perú 🇵🇪
-enfoque: Backend · DevOps · Cloud Computing
-intereses:
-  - APIs REST escalables y seguras
-  - Despliegues en la nube (Azure, Railway, VPS Linux)
-  - CI/CD y automatización
-  - Rendimiento y buenas prácticas
+```
+███████╗██████╗ ██╗███╗   ██╗ ██████╗ ███████╗ █████╗ 
+██╔════╝██╔══██╗██║████╗  ██║██╔═══██╗██╔════╝██╔══██╗
+███████╗██████╔╝██║██╔██╗ ██║██║   ██║███████╗███████║
+╚════██║██╔═══╝ ██║██║╚██╗██║██║   ██║╚════██║██╔══██║
+███████║██║     ██║██║ ╚████║╚██████╔╝███████║██║  ██║
+╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+                                                        
 ```
 
-- 💡 Apasionado por construir sistemas robustos y eficientes
-- 🌱 En constante aprendizaje sobre arquitecturas cloud y seguridad
-- 🚀 Enfocado en rendimiento, escalabilidad y código limpio
-- 💬 Siempre abierto a colaborar y compartir conocimiento
-
----
-
-## 📫 Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/espinoza-morales-josé-angel-b94296329">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:joseangelespinozamorales@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/JoseEM26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-</p>
-
-### **Frontend**
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### **Mobile**
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
-
-### **DevOps & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### **Bases de Datos & Control de Versiones**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseEM26&theme=tokyonight&hide_border=true&border_radius=10" width="60%"/>
-</div>
 
-<br>
+# 🚀 José Ángel Espinoza
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseEM26&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEM26&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="45%"/>
+### Full Stack Developer | Backend Architect | Cloud & DevOps Engineer
+
+**Building scalable, secure, and elegant software solutions**
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/espinoza-morales-josé-angel-b94296329)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat-square&logo=Gmail&logoColor=white)](mailto:joseangelespinozamorales@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/JoseEM26)
+[![View Profile](https://img.shields.io/badge/-View%20Full%20Profile-6366f1?style=flat-square)](https://github.com/JoseEM26)
+
 </div>
 
 ---
 
-## 🎯 Enfoque Actual
+## 👨‍💻 Quién Soy
 
+<table>
+  <tr>
+    <td width="50%">
+      
+### 🎯 Misión
+Crear soluciones de software que:
+- Escalen **sin comprometer la calidad**
+- Sean **seguras por diseño**
+- Brinden **excelente experiencia** al usuario
+- Se mantengan **fácilmente en el tiempo**
+
+    </td>
+    <td width="50%">
+      
+### ✨ Valores
+- **Excelencia** técnica sin pretensiones
+- **Colaboración** genuina con equipos
+- **Aprendizaje** constante y compartido
+- **Pragmatismo** en decisiones técnicas
+- **Seguridad** como prioridad
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+### 🔥 Especialidades Principales
+
+#### Backend & APIs REST
+```
+Java 17+ │ Spring Boot 3 │ Spring Security │ Spring Data JPA
+Python 3.9+ │ FastAPI │ Django │ .NET 6+ │ Node.js
+```
+**Enfoque:** Diseño de APIs escalables, seguridad, rendimiento y patrones de arquitectura
+
+#### ☁️ Cloud & Infraestructura
+```
+Azure │ Docker │ Kubernetes │ Terraform
+GitHub Actions │ CI/CD Pipelines │ Linux Administration
+```
+**Enfoque:** Infraestructura como código, automatización, observabilidad y disaster recovery
+
+#### 🎨 Frontend & UI
+```
+Angular 16+ │ React 18+ │ TypeScript │ Tailwind CSS
+HTML5 │ CSS3 │ Responsive Design │ State Management
+```
+**Enfoque:** Aplicaciones SPA modernas, accesibilidad y experiencia de usuario
+
+#### 💾 Bases de Datos
+```
+MySQL 8 │ PostgreSQL 15 │ MongoDB 7 │ Redis
+```
+**Enfoque:** Diseño relacional, optimización, replicación y sharding
+
+---
+
+## 📊 Métricas & Logros
+
+<div align="center">
+
+### GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=JoseEM26&show_icons=true&theme=midnight-purple&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEM26&theme=midnight-purple&layout=compact" width="48%" alt="Languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseEM26&theme=midnight-purple" width="95%" alt="Streak Stats"/>
+
+### 🎖️ Logros
+- ⭐ **500+** commits este año
+- 🔥 **Contributions** consistentes
+- 🏆 **Full Stack** expertise
+- 📚 **Continuous Learner** mindset
+
+</div>
+
+---
+
+## 💡 Áreas de Expertise
+
+### 🔧 Backend Development
 <div align="center">
   
-| ☁️ Cloud Computing | ⚙️ DevOps | 🔐 Seguridad | 📈 Rendimiento |
-|:---:|:---:|:---:|:---:|
-| Azure & Railway | CI/CD & Automatización | APIs Seguras | Optimización Backend |
+| Competencia | Nivel |
+|:---|:---:|
+| **Arquitectura de APIs** | ⭐⭐⭐⭐⭐ |
+| **Patrones de Diseño** | ⭐⭐⭐⭐⭐ |
+| **Seguridad (OAuth2, JWT, RBAC)** | ⭐⭐⭐⭐⭐ |
+| **Optimización de Rendimiento** | ⭐⭐⭐⭐⭐ |
+| **Testing & QA** | ⭐⭐⭐⭐⭐ |
+
+</div>
+
+### ☁️ Cloud & DevOps
+<div align="center">
+  
+| Competencia | Nivel |
+|:---|:---:|
+| **Azure Cloud Platform** | ⭐⭐⭐⭐⭐ |
+| **Docker & Kubernetes** | ⭐⭐⭐⭐⭐ |
+| **CI/CD Pipelines** | ⭐⭐⭐⭐⭐ |
+| **Infrastructure as Code** | ⭐⭐⭐⭐⭐ |
+| **Monitoreo & Logs** | ⭐⭐⭐⭐ |
+
+</div>
+
+### 🎨 Frontend & UI
+<div align="center">
+  
+| Competencia | Nivel |
+|:---|:---:|
+| **Angular Framework** | ⭐⭐⭐⭐⭐ |
+| **React & Modern JS** | ⭐⭐⭐⭐ |
+| **TypeScript Avanzado** | ⭐⭐⭐⭐⭐ |
+| **Diseño Responsivo** | ⭐⭐⭐⭐ |
+| **UX/UI Best Practices** | ⭐⭐⭐⭐ |
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer"/>
-</p>
+## 🎯 Stack de Tecnologías Detallado
+
+### Backend & Frameworks
+```
+✓ Java 17+ con Spring Boot 3 y Spring Cloud
+✓ Python con FastAPI y Django REST Framework
+✓ .NET 6+ con Entity Framework Core
+✓ Node.js con Express y NestJS
+✓ REST APIs, GraphQL, WebSockets
+✓ Microservicios y Event-Driven Architecture
+```
+
+### Frontend & Libraries
+```
+✓ Angular 16+ con RxJS y NgRx
+✓ React 18+ con Redux y Context API
+✓ TypeScript 5 para type-safety
+✓ Tailwind CSS para estilos modernos
+✓ HTML5, CSS3, Responsive Design
+✓ Accessibility (WCAG) y PWA
+```
+
+### Cloud Services
+```
+✓ Microsoft Azure (App Service, VMs, Container Registry)
+✓ Railway para despliegues rápidos
+✓ VPS Linux para control total
+✓ Docker para containerización
+✓ Kubernetes para orquestación
+✓ Terraform para Infrastructure as Code
+```
+
+### DevOps & Tooling
+```
+✓ GitHub Actions para CI/CD
+✓ Jenkins para automatización
+✓ Prometheus & Grafana para monitoreo
+✓ ELK Stack para logs
+✓ Ansible para configuration management
+✓ ArgoCD para GitOps
+```
+
+### Bases de Datos
+```
+✓ MySQL 8 con replicación
+✓ PostgreSQL 15 con PostGIS
+✓ MongoDB 7 para NoSQL
+✓ Redis para caching
+✓ Elasticsearch para búsqueda
+✓ InfluxDB para métricas
+```
+
+---
+
+## 🚀 Metodologías & Principios
+
+### Clean Code & SOLID
+```javascript
+// Escribo código que es:
+✓ Limpio y legible
+✓ Mantenible a largo plazo
+✓ Fácil de testear
+✓ Documentado claramente
+✓ Sigue principios SOLID
+```
+
+### Arquitectura & Patrones
+```
+✓ Microservicios escalables
+✓ Event-Driven Architecture
+✓ Domain-Driven Design (DDD)
+✓ Command Query Responsibility Segregation (CQRS)
+✓ Circuit Breaker & Resilience patterns
+```
+
+### Seguridad
+```
+✓ OAuth2 & OpenID Connect
+✓ JWT para autenticación stateless
+✓ Role-Based Access Control (RBAC)
+✓ OWASP Top 10 mitigation
+✓ Data encryption & compliance
+```
+
+---
+
+## 🎓 Aprendizaje Continuo
+
+Siempre explorando:
+- 🤖 **AI/ML Integration** en backend
+- 🔐 **Advanced Security** patterns
+- 📊 **Data Engineering** y big data
+- 🌐 **GraphQL & API Composition**
+- ♻️ **Green Computing** practices
+- 🔍 **Observability & Distributed Tracing**
+
+---
+
+## 🌟 Destacados
+
+### Fortalezas Clave
+- 💪 **Resolución de problemas complejos** sin miedo
+- 🎯 **Visión arquitectónica** clara
+- 📈 **Escalabilidad** en mente desde el inicio
+- 🔒 **Seguridad first** approach
+- 🚀 **DevOps mindset** para deployment excellence
+- 🤝 **Comunicación efectiva** con equipos
+
+### Filosofía
+```
+"La excelencia no es un destino, es un viaje continuo"
+```
+
+---
+
+## 📫 Conectemos
+
+<div align="center">
+
+### 🤝 Siempre abierto a:
+- **Colaboraciones** técnicas interesantes
+- **Mentoring** y conocimiento compartido
+- **Proyectos desafiantes** que escalen
+- **Innovación** en arquitectura y DevOps
+
+---
+
+### 📱 Redes Sociales
+[LinkedIn](https://www.linkedin.com/in/espinoza-morales-josé-angel-b94296329) • 
+[GitHub](https://github.com/JoseEM26) • 
+[Email](mailto:joseangelespinozamorales@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=JoseEM26&color=6366F1&style=for-the-badge" alt="Profile Views"/>
+
+### 🙏 Gracias por visitar 
+*Sígueme para actualizar mis proyectos* ⭐
+
+</div>
